@@ -31,8 +31,8 @@ A simple web application that generates strong passwords based on user-defined c
 
 ## Screenshots
 
-[![Screenshot 1](/screenshots/screenshot1.png)](/screenshots/screenshot1.png)
-_[Click here for larger view](/screenshots/screenshot1.png)_
+[![Screenshot 1](/screenshot.png)](/screenshot.png)
+_[Click here for larger view](/screenshot.png)_
 
 ## Contributing
 
