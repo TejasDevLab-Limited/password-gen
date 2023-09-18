@@ -45,4 +45,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Disclaimer**: This project is for educational purposes and should not be used for generating passwords in production systems without proper security considerations.
 
-For questions or support, please contact [tejaschauhan.py@gmail.com](mailto:tejaschauhan.py@gmail.com).
+For questions or support, please contact [support@tejasdevlab.systems](mailto:support@tejasdevlab.systems).
