@@ -13,7 +13,7 @@ A simple web application that generates strong passwords based on user-defined c
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/password-generator-web-app.git
+   git clone https://github.com/TejasDevLab-Limited/password-gen.git
 
 2. Install the required packages:
 
